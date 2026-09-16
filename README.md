@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rayan Khalo
 
-<!--
-**Rayankhalo7/Rayankhalo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer / FI Anwendungsentwicklung (IHK) based in Hofgeismar, Germany.
 
-Here are some ideas to get you started:
+I build clean, practical full-stack apps — from PHP/Laravel and WordPress to modern TypeScript with React and Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+`TypeScript` · `JavaScript` · `PHP` · `Python` · `React` · `Next.js` · `Laravel` · `WordPress` · `SQL` · `Tailwind CSS`
+
+## Featured
+
+- **[Portfolio website](https://github.com/Rayankhalo7/portfolio-website)** — personal site (Next.js, TypeScript, Tailwind)
+- **[ChronoTrack](https://github.com/Rayankhalo7/chronotrack-demo)** — fullstack time-tracking demo (Next.js, Prisma, NextAuth)
+
+## Contact
+
+- Email: [r.khalo@web.de](mailto:r.khalo@web.de)
+- GitHub: [@Rayankhalo7](https://github.com/Rayankhalo7)
+
+---
+
+Open to junior / web full-stack roles. Thanks for stopping by.
