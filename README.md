@@ -1,6 +1,6 @@
 # Hi, I'm Rayan Khalo
 
-Web developer / FI Anwendungsentwicklung (IHK) based in Hofgeismar, Germany.
+Web and Software developer based in Hofgeismar, Germany.
 
 I build clean, practical full-stack apps — from PHP/Laravel and WordPress to modern TypeScript with React and Next.js.
 
